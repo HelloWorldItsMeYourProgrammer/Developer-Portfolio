@@ -14,10 +14,8 @@ const Hero = (props) => (
           Karolis Šidlauskas
         </SectionTitle>
         <SectionText>
-          I’m a software developer with the MERN Full-Stack development knowledge.
+          I’m a passionate software engineer that specialises in web development with the MERN Full-Stack knowledge.
           <br />
-          My motto - <span style={{ fontWeight: "bold" }}>"Bring value!"</span> I have a strong desire to learn and create -{" "}
-          <span style={{ fontWeight: "bold" }}>"everyday people must build"</span>.
         </SectionText>
         <Button onClick={props.handleClick}>Learn More</Button>
       </LeftSection>

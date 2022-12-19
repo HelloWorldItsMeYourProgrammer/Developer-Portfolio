@@ -7,7 +7,7 @@ const Technologies = () => (
   <Section id="tech">
     <SectionDivider divider />
     <SectionTitle>Technologies</SectionTitle>
-    <SectionText>I use MERN stack tools as my main building software, nevertheless I'm always keen to learn new ways of development.</SectionText>
+    <SectionText>I use MERN stack tools as my main building webs, nevertheless I'm always keen to learn new ways of development.</SectionText>
     <List>
       <ListItem>
         <picture>
