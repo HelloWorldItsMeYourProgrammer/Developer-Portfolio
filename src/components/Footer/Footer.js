@@ -23,8 +23,8 @@ const Footer = () => {
           <LinkItem href="tel:314-343-3432">314-343-3432</LinkItem>
         </LinkColumn> */}
         <LinkColumn>
-          <LinkTitle>Email</LinkTitle>
-          <LinkItem href="mailto:karolis.sidlauskas7@gmail.com">karolis.sidlauskas7@gmail.com</LinkItem>
+          {/* <LinkTitle>Email</LinkTitle>
+          <LinkItem href="mailto:karolis.sidlauskas7@gmail.com">karolis.sidlauskas7@gmail.com</LinkItem> */}
         </LinkColumn>
       </LinkList>
       <SocialIconsContainer>

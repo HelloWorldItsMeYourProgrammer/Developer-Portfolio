@@ -11,7 +11,7 @@ const Hero = (props) => (
         <SectionTitle main center>
           Welcome To <br />
           Personal Portfolio Of <br />
-          Karolis Šidlauskas
+          Karolis
         </SectionTitle>
         <SectionText>
           I’m a passionate software engineer that specialises in web development with the MERN Full-Stack knowledge.
