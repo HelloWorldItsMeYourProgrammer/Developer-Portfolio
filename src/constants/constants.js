@@ -2,7 +2,7 @@ export const projects = [
   {
     title: "Clock",
     description: "Simple clock created using vanilla javascript",
-    image: "/images/Clock.png",
+    image: "/public/images/Clock.PNG",
     tags: ["HTML", "CSS", "JavaScript"],
     // source: "https://google.com",
     visit: "https://github.com/HelloWorldItsMeYourProgrammer/Clock-with-JavaScript",
