@@ -13,7 +13,7 @@ const Projects = () => (
       {projects.map((p, i) => {
         return (
           <BlogCard key={i}>
-            <Image src="/Clock.PNG" alt="clock" width="400px" height="340px" />
+            <Image src="/Clock.PNG" alt="clock" width="400px" height="330px" />
             <TitleContent>
               <HeaderThree title>{p.title}</HeaderThree>
               <Hr />
