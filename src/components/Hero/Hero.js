@@ -14,7 +14,7 @@ const Hero = (props) => (
           Karolis
         </SectionTitle>
         <SectionText>
-          I’m a passionate software engineer that specialises in web development with the MERN Full-Stack knowledge.
+          I’m a passionate software engineer that specialises in web and soft development with the MERN Full-Stack knowledge.
           <br />
         </SectionText>
         {/* <Button onClick={props.handleClick}>Learn More</Button> */}
