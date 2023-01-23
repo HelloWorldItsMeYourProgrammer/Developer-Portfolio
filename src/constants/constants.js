@@ -1,22 +1,32 @@
 export const projects = [
   {
     title: "Clock",
-    description: "Simple clock created using vanilla javascript",
-    image: "/public/images/Clock.PNG",
+    description: "Simple clock created using Vanilla JavaScript",
+    image: {
+      title: "/Clock.PNG",
+      alt: "clock",
+      width: "400px",
+      height: "330px",
+    },
     tags: ["HTML", "CSS", "JavaScript"],
     // source: "https://google.com",
     visit: "https://github.com/HelloWorldItsMeYourProgrammer/Clock-with-JavaScript",
     id: 0,
   },
-  // {
-  //   title: 'E-Commerce',
-  //   description:"While building it you're going to learn many advanced React & JavaScript topics, as well as how to use Stripe for card transactions. On top of that, at the end of the video, you will have this unique and complex webshop app that you will be able to add to your portfolio. And trust me, e-commerce applications are impressive.",
-  //   image: '/images/2.png',
-  //   tags: ['React', 'JavaScript'],
-  //   source: 'https://google.com',
-  //   visit: 'https://google.com',
-  //   id: 1,
-  // },
+  {
+    title: "Simple Chat App",
+    description: "Simple Chat App created using Socket.IO",
+    image: {
+      title: "/Chat-App-example-picture.PNG",
+      alt: "Chat-App",
+      width: "1000px",
+      height: "310px",
+    },
+    tags: ["JavaScript", "Node.js", "Socket.IO"],
+    // source: "https://google.com",
+    visit: "https://github.com/HelloWorldItsMeYourProgrammer/Chat-App-simple",
+    id: 1,
+  },
   // {
   //   title: 'WebRTC App',
   //   description: "This is a code repository for the corresponding YouTube video. In this tutorial, we're going to build and deploy a React Video Chat Application using WebRTC.",
